@@ -1,0 +1,273 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  height: auto;
+  padding: 30px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 100px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #222222;
+  line-height: 24px;
+}
+.section1{
+  margin-top: 100px;
+  display: flex;
+  gap: 134px;
+  padding: 0px 80px;
+  justify-content:space-around;
+}
+.section1 h1{
+  font-size: 60px;
+  font-weight: 600;
+  color: #222222;
+}
+.section1 p{
+  font-size: 20px;
+  font-weight: 400;
+  color: #555555;
+  margin-top: 30px;
+}
+.img1{
+  margin-top: 40px;
+}
+.section2{
+  margin-top: 40px;
+  border-radius: 10px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+.rasm3{
+  margin-top: 16px;
+}
+.images h5{
+  font-size: 20px;
+  font-weight: 400;
+  color: #222222;
+  margin-top: 42px;
+}
+.images h6{
+  font-size:16px;
+  font-weight: 400;
+  color: #666666;
+  margin-top: 12px;
+}
+.section3{
+  margin-top: 41px;
+  display: flex;
+  justify-content: space-around;
+  gap: 16px;
+}
+.image2{
+  margin-top: 120px;
+  margin-left: 80px;
+  margin-bottom: 41px;
+}
+.image2 p{
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #555555;
+}
+.image2 h1{
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 600;
+  color: #222222;
+}
+.section4{
+  margin-top: 120px;
+  display: flex;
+  gap: 60px;
+  padding: 0px 80px;
+}
+.section4 h6{
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #555555;
+  line-height: 28px;
+}
+.section4 h2{
+  font-size: 60px;
+  font-weight: 600;
+  color: #222222;
+}
+.images7{
+  margin-top: 40px;
+}
+.images6{
+ gap: 60px;
+ display: flex;
+}
+.button2{
+  padding: 16px 32px;
+  border: none;
+  border-radius: 10px;
+  background-color: #3771C8;
+  color: #FFFFFF;
+  margin-top: 60px;
+}
+.section5{
+  margin-top: 100px;
+  display: flex;
+  gap: 90px;
+  align-items: center;
+  justify-content: space-around;
+}
+.shape{
+  width: 640px;
+  height: 400px;
+  background-color: #F9D15C;
+  border-radius: 10px;
+  align-content: center;
+  text-align: center;
+}
+.section6{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 119px;
+}
+.rasm12{
+  border-radius: 10px;
+}
+.shape h4{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555555;
+  line-height: 32px;
+  margin-top: 8px;
+  margin-bottom: 23px;
+}
+.shape p{
+  font-size: 30px;
+  font-weight: 300;
+  color: #222222;
+  line-height: 36px;
+  margin-bottom: 44px;
+}
+.button{
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.icon2{
+  margin-left: 511px;
+}
+.section7 p{
+font-size: 16px;
+  font-weight: 400;
+  color: #222222;
+  line-height: 28px;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.section8{
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+.section7 h1{
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  line-height: 60px;
+  margin-left: 80px;
+}
+.hovuz p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+    line-height: 24px;
+    margin-top: 8px;
+    margin-bottom: 27px;
+}
+.hovuz h4{
+  font-size: 20px;
+  font-weight: 600;
+  color: #222222;
+  margin-top: 20px;
+}
+.button3{
+  padding: 5px 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #3771C8;
+  border: none;
+  border-radius:4px;
+  margin-left: 300px;
+}
+.icon3wrap h1{
+   font-size: 40px;
+   font-weight: 600;
+   color: #222222;
+   line-height: 50px;
+   margin-bottom: 20px;
+}
+.icon3wrap p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555555;
+  line-height: 28px;
+  margin-bottom: 92px;
+}
+.section9{
+  background-color: #EAECEB;
+  border-radius: 16px;
+  width: 1,280px;
+  height: 450px;
+  margin-top: 120px;
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 120px;
+}
+.icon3wrap{
+  margin-left: 74px;
+}
+.iconwrap10{
+  display: flex;
+  gap:30px;
+  margin-top: 32px;
+}
+.section10 span{
+  font-size: 16px;
+  font-weight: 400;
+  color: #555555;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.section10{
+  display: flex;
+  gap: 165px;
+  justify-content: center;
+}
+.section10 h4{
+  font-size: 24px;
+  color: #222222;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 24px;
+}
+.section10 p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #222222;
+  line-height: 24px;
+  margin-bottom: 16px;
+}
