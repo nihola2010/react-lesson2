@@ -50,7 +50,7 @@ function App() {
           <div>
             <h1>Find Your Best Hotel <br></br>
                for Deals</h1>
-               <p>Lorem Ipsum is simply dummy text of the printing <br></br>
+               <p>lorem Ipsum is simply dummy text of the printing <br></br>
                  and typesetting industry.</p>
           </div>
           <div>
