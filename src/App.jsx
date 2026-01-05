@@ -169,7 +169,7 @@ function App() {
          <div className="hovuz">
             <img src={hovuz}/>
             <h4>Swimming pool and beach of luxury...</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing <br></br> and typesetting industry.</p>
+            <p>Lorem Ipsum is simply dummy text of the printing <br></br> and typesetating industry.</p>
             <div className="iconwrap">
               <button className="button3">Details</button>
             </div>
